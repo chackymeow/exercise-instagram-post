@@ -9,9 +9,11 @@ h1{
     text-align: center;
 
 }
-.titl_day{
-    background-color: darkolivegreen;
+.flex-container{
+    background-color: darkorange;
+    flex-wrap: wrap;
 }
+
 #title{
     width: 100%;
     margin: auto;
@@ -20,7 +22,7 @@ h1{
     background-color: white;
 
 }
-.feed{
+#feed{
     width: 400px;
     height: 550px;
     margin: auto;
@@ -33,20 +35,16 @@ h1{
     height: 400px;
 }
 #logohtml5{
-    width: 10%;
-    float: left;
     background-color: aquamarine;
+
 }
 .title_2{
-    width: 50%;
     font-size: 18px;
     background-color: burlywood;
+
 }
 #circles{
-
     background-color: crimson;
-    float: right;
-
 }
 .text{
     padding: 10px;
