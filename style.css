@@ -1,0 +1,55 @@
+body{
+    background-color: #eaeaea;
+    font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    width: 100%;
+    color: black;
+    text-align: center;
+
+}
+.titl_day{
+    background-color: darkolivegreen;
+}
+#title{
+    width: 100%;
+    margin: auto;
+    padding-top: 0;
+    margin-top: 0;
+    background-color: white;
+
+}
+.feed{
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+.photo{
+    width: 400px;
+    height: 400px;
+}
+#logohtml5{
+    width: 10%;
+    float: left;
+    background-color: aquamarine;
+}
+.title_2{
+    width: 50%;
+    font-size: 18px;
+    background-color: burlywood;
+}
+#circles{
+
+    background-color: crimson;
+    float: right;
+
+}
+.text{
+    padding: 10px;
+    padding-top: 0;
+    text-align: justify;
+}
